@@ -1,0 +1,1 @@
+This repository contains various Power BI projects developed by Benard, leveraging the power of Python for data analysis and visualization. Each project demonstrates the integration of Python with Power BI to deliver insightful and interactive dashboards.
